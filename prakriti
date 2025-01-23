@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>facebook ribbon layout</title>
+    <link rel="stylesheet"
+    href="cascade.css">
+    
+</head>
+<body>
+    <div class="navbar">
+        <!-left section:logo and search-->
+        <div class="left section">
+            <img src="Pictures/Camera Roll/facebook.png">
+            <input type="text"
+            placeholder="search facebook" class="search-bar">
+        </div>
+        <!--center section:navigation icons-->
+        <div class="center-section">
+            <i class="ri-home-line"></i>"
+            <i class="ri-group-2-line"></i>
+            <i class="ri-video-line"></i>
+            <i class="ri-store-2-line"></i>
+            <i class="ri-gamepad-line"></i>
+        </div>
+        <!--right section:additional icons-->
+        <div class="right-section">
+            <i class="ri-menu-line"></i>
+            <i class="ri-messenger-line"></i>   
+        </div>
+    </div>
+    
+</body>
+</html>
